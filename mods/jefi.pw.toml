@@ -1,0 +1,13 @@
+name = "Just Enough Fluid Interactions"
+filename = "justenoughfluidinteractions-1.0.46.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8c80e21f5b5c5e143966d461614692090da20174"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8946332
+project-id = 1686986

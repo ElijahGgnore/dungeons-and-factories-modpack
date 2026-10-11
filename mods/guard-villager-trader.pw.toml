@@ -1,0 +1,13 @@
+name = "Guard Villager Trader"
+filename = "guard_villager_trader-1.0.1-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d2f40e781ebe72623e36df64dbefac8eeba3bb84"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6443334
+project-id = 1170461
