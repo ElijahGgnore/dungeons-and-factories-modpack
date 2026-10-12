@@ -671,6 +671,11 @@ hash = "bb5dc8ac909aee1955532a65145f7ebfc3a88289610298e821a974fdda5f1822"
 metafile = true
 
 [[files]]
+file = "mods/skinrestorer.pw.toml"
+hash = "5b455b1ef10642289e24670df5c3ee5deabf320e07c67d24e84b30c65c86df52"
+metafile = true
+
+[[files]]
 file = "mods/sodium-shadowy-path-blocks.pw.toml"
 hash = "6df23b8cdee33784a94cbdf00511102213d5bd041bfdaebb17cadf5539df4d19"
 metafile = true
