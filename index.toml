@@ -632,7 +632,7 @@ metafile = true
 
 [[files]]
 file = "mods/paradigm.pw.toml"
-hash = "7ad01dff2f574a7df9916ca7e2d65c644bacd34173a743d02141d619032e424b"
+hash = "510f0b92e4c0f4fb602076be2e1bb97a986778ef47a125822b46324c29fc6924"
 metafile = true
 
 [[files]]
