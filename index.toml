@@ -301,6 +301,11 @@ hash = "88b9e727611f06350c407aeb4ccb41207b5058fef127abe0ff24c13505618aaf"
 metafile = true
 
 [[files]]
+file = "mods/enhanced-ai.pw.toml"
+hash = "6800c35bd67a9f32a82c5f17a867f3fc72692569e034988f6c630f078ff3afd6"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "b363434af9ce56fc7243c0db537bec2f99ecbfc618e226dbeda8835f435b887c"
 metafile = true
@@ -388,6 +393,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-paintings.pw.toml"
 hash = "f4f4f93fd59e6a43e7484b44c667875cc8a5d8e5621d98b61e8944c9e0838d61"
+metafile = true
+
+[[files]]
+file = "mods/insanelib.pw.toml"
+hash = "d7e8dd8a6c759201b79877920a362d348239a1c519cad36916f5c24bc0ab8fbd"
 metafile = true
 
 [[files]]
