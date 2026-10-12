@@ -611,6 +611,11 @@ hash = "7932fbacc370edc6fd2577784800fd3d8baf7ceffa7d8ef0ac927ec13a62f16a"
 metafile = true
 
 [[files]]
+file = "mods/paradigm.pw.toml"
+hash = "7ad01dff2f574a7df9916ca7e2d65c644bacd34173a743d02141d619032e424b"
+metafile = true
+
+[[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "93284ca7f2f23f0bb76d42b797cabf2aea1914ee9825bec82bf6ffe4c60dda0d"
 metafile = true

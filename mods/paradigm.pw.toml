@@ -1,0 +1,13 @@
+name = "Paradigm Essentials"
+filename = "Paradigm-f21.0.beta4.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/s4i32SJd/versions/y5Bnk0HR/Paradigm-f21.0.beta4.jar"
+hash-format = "sha512"
+hash = "aa19edabc833dae3ed1e269d33c3c9bf77da738e33359c4a0757fb2f42ad853b260894c2c6f1e92c253f1bc4e8237aadcc4c7ce0d2f1f0687242ff52dd16c326"
+
+[update]
+[update.modrinth]
+mod-id = "s4i32SJd"
+version = "y5Bnk0HR"
