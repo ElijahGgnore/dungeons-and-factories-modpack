@@ -291,6 +291,11 @@ hash = "91044869b5c597936f6841e23975c4a5082a6f7f7faf0d151a5b1a491d4ffc5f"
 metafile = true
 
 [[files]]
+file = "mods/easylogin.pw.toml"
+hash = "121eaee9846985e5d806a70127fea51310eb9bce8f24622062bd7170ad1cc7e2"
+metafile = true
+
+[[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "88b9e727611f06350c407aeb4ccb41207b5058fef127abe0ff24c13505618aaf"
 metafile = true
