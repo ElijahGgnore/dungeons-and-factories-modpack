@@ -801,6 +801,11 @@ hash = "539f362e9e192cf3b2813e0dfdfc51a5e6814129c6e82a9733842529beea6242"
 metafile = true
 
 [[files]]
+file = "mods/yawp.pw.toml"
+hash = "22d250fbb73bcf6ccd833ccd90e40d313cb3a38ecc973214d9a0643a0930dd29"
+metafile = true
+
+[[files]]
 file = "mods/yungs-api.pw.toml"
 hash = "dde31f05114c72cb2f58e522417487730b872e456f77fdd02c032c9235791f6c"
 metafile = true
