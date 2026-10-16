@@ -1,5 +1,5 @@
 name = "Dungeons & Factories"
-version = "3.0.0"
+version = "4.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
@@ -9,4 +9,4 @@ hash = "4a88f1e23337f8dc8fa0cd39daf298cce34d3668c93bf21ca5bd07f0bfb9ede6"
 
 [versions]
 minecraft = "1.21.1"
-neoforge = "21.1.259"
+neoforge = "21.1.262"
