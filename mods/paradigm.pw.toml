@@ -1,6 +1,7 @@
 name = "Paradigm Essentials"
 filename = "Paradigm-f21.0.beta4.jar"
 side = "server"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/s4i32SJd/versions/y5Bnk0HR/Paradigm-f21.0.beta4.jar"
