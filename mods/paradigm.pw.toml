@@ -1,13 +1,13 @@
 name = "Paradigm Essentials"
-filename = "Paradigm-neoforge-1.21.1-2.5.2.jar"
+filename = "Paradigm-f21.0.beta4.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/s4i32SJd/versions/24uoAJR4/Paradigm-neoforge-1.21.1-2.5.2.jar"
+url = "https://cdn.modrinth.com/data/s4i32SJd/versions/y5Bnk0HR/Paradigm-f21.0.beta4.jar"
 hash-format = "sha512"
-hash = "e5d74d12720fbc600f628cbfe7f899504c7e67903beff716216c2c06f83b968be6dd2ea71bf72782d6c9dfe121b0e53394c234ce60eb19a4d4b9bd569938baf2"
+hash = "aa19edabc833dae3ed1e269d33c3c9bf77da738e33359c4a0757fb2f42ad853b260894c2c6f1e92c253f1bc4e8237aadcc4c7ce0d2f1f0687242ff52dd16c326"
 
 [update]
 [update.modrinth]
 mod-id = "s4i32SJd"
-version = "24uoAJR4"
+version = "y5Bnk0HR"
