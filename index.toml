@@ -306,6 +306,11 @@ hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
 metafile = true
 
 [[files]]
+file = "mods/custom-jukebox-discs.pw.toml"
+hash = "0d3af784168179a5412532332557459eef13edd6b3d39432e3034ad46d258069"
+metafile = true
+
+[[files]]
 file = "mods/decorative-blocks-reborn.pw.toml"
 hash = "5c33ee84c17b3653307605c63a541d0e164fe58ec45dfcfe8e215a3ecf0d6033"
 metafile = true
@@ -623,11 +628,6 @@ metafile = true
 [[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "f7198ef16f4eefbe80ffd1d8ac7c2d323da4e68faf916a8b4b9c3e40f0913b80"
-metafile = true
-
-[[files]]
-file = "mods/mimi.pw.toml"
-hash = "5a3cb15ece27aaca83bc167468bbad97b3f964b8889e3c067e244decd126b7a2"
 metafile = true
 
 [[files]]

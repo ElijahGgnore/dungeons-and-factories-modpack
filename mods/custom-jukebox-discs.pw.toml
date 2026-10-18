@@ -1,0 +1,13 @@
+name = "Custom Jukebox Discs"
+filename = "customjukeboxdiscs-1.21.1-0.4.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c2694441f2c0c4663ec834e0e2ed298eadd17559"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8993127
+project-id = 1655476
