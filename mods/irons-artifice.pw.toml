@@ -1,13 +1,13 @@
 name = "Iron's Arms 'n Artifice"
-filename = "irons_artifice-1.21.1-1.1.0.jar"
+filename = "irons_artifice-1.21.1-1.1.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/yOy4oSzi/versions/Q2dK8Qgh/irons_artifice-1.21.1-1.1.0.jar"
+url = "https://cdn.modrinth.com/data/yOy4oSzi/versions/ttABG4v0/irons_artifice-1.21.1-1.1.1.jar"
 hash-format = "sha512"
-hash = "c05b1a2d0756fb04214f357e4996372722745fc2cc7c9f590d1ae83c8dd6a9e11335f84f4d0321d82fce3e7600601046b2a2b7b90ecf4a828fbc1deb34a2aaf7"
+hash = "130a5a26b8183e6089cc38b36acb8332526e96640d32010de0fd6a339c11437277d62f300dfc14418835b6545557f114e539b2e8fadcb7c044acbb8c2c0d79cf"
 
 [update]
 [update.modrinth]
 mod-id = "yOy4oSzi"
-version = "Q2dK8Qgh"
+version = "ttABG4v0"
