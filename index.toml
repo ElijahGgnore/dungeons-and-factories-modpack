@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "27bf52b4265eda868c46a325f3a86cec1db5ff24ffb808aed671972d51883792"
+hash = "aef2b0ee3884d9da84c099557f8f7529f965513d269d450f1f9f8e8cc78b5a47"
 metafile = true
 
 [[files]]
@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/azurelib.pw.toml"
-hash = "a7acc3836c683e8e833bba7eabf64d9322b5ca54c25d83606f634960e022e08c"
+hash = "0e0649a74b3e2160ebf3800cfc2b8fde702faec7efa5968b00f81e02bdbf8ed5"
 metafile = true
 
 [[files]]
@@ -117,7 +117,7 @@ metafile = true
 
 [[files]]
 file = "mods/cataclysm-spellbooks.pw.toml"
-hash = "48a43f54f8e00b8c578aff25efcb824019016be3b432374df87a6e0960728aa5"
+hash = "f9a374ce592b015a17933e43418539b215fa7c6caa706dfe6ca5495675821648"
 metafile = true
 
 [[files]]
@@ -322,7 +322,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom-jukebox-discs.pw.toml"
-hash = "0d3af784168179a5412532332557459eef13edd6b3d39432e3034ad46d258069"
+hash = "6aa7c1e871a4ad1fc6cfd72f7a14c9fdea6922a5f0403fb423690f4a15dda294"
 metafile = true
 
 [[files]]
@@ -352,7 +352,7 @@ metafile = true
 
 [[files]]
 file = "mods/enhanced-ai.pw.toml"
-hash = "4ab0aeaac4d7a458a96e2f80884347af9c515bb090eb21dbc77e77ff1a6b1a5c"
+hash = "bbd211e8776ec25a7fd6ac851588560dc7f57367cc57cd597a752b96f2a33889"
 metafile = true
 
 [[files]]
@@ -387,7 +387,7 @@ metafile = true
 
 [[files]]
 file = "mods/fantasy_armor.pw.toml"
-hash = "afa210c4991668ea4b0158f7c95a895dac077925129c2fd569937cd15766f827"
+hash = "e67ed3a1cd8d3b4d683ace2baa4388113a97ef35861cfc37be77d5736f4cb804"
 metafile = true
 
 [[files]]
@@ -407,7 +407,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "932c65fb598293dba5dc60a76fc64c2579db427018b10dd4757dd421d9abcaf0"
+hash = "f2849c357f9c82d017ff71c6d5e91ac8e51d6b0f2de9e7ae8d95bfb81759cd63"
 metafile = true
 
 [[files]]
@@ -432,7 +432,7 @@ metafile = true
 
 [[files]]
 file = "mods/guideme.pw.toml"
-hash = "d897a4efe0291252e8d9f6d1db8c6513074fe4cbfeb27fafc041bc145ca35e24"
+hash = "afbf995d300c4337cc36704087731f5c9a3d7bc49f9110bcfe72b9c345f24bd7"
 metafile = true
 
 [[files]]
@@ -447,12 +447,12 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-paintings.pw.toml"
-hash = "f4f4f93fd59e6a43e7484b44c667875cc8a5d8e5621d98b61e8944c9e0838d61"
+hash = "a46a4220e4d467208a042ccd05cc8c2908733f02da6f5ecd532ab4cb2ed72909"
 metafile = true
 
 [[files]]
 file = "mods/insanelib.pw.toml"
-hash = "32741c8b458bd886aedaeb63307c1c882aec152497bedfb06fcd3a971009efe3"
+hash = "6d95bb692bc1476428842e68f2ac83f0647539d073b187850522912e0c43a23d"
 metafile = true
 
 [[files]]
@@ -477,7 +477,7 @@ metafile = true
 
 [[files]]
 file = "mods/irons-lib.pw.toml"
-hash = "93f7a09e0d9a05c31b55bb9725545c49dc68067556a98d470e4f405bdbf3b25c"
+hash = "8941da7290825037921249274369a39440567f667df2eead412cf54423168f7e"
 metafile = true
 
 [[files]]
@@ -502,7 +502,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei-plus-plus.pw.toml"
-hash = "b3d88bf5babbe457b00116c3390009b95efc0d91392ba553b0a15374b94c7bd0"
+hash = "ca061b751db9913b2b6d615527b65418f8e07712f6f05bd0316e90ba0410b0f9"
 metafile = true
 
 [[files]]
@@ -537,7 +537,7 @@ metafile = true
 
 [[files]]
 file = "mods/just-enough-resources-jer.pw.toml"
-hash = "2c8f12bbade7f10e80f2a5a9ad4bf89f0c3929f588d2bd02a6bbedd9372fefe4"
+hash = "0ffbcb406354628ad32de0c93ada14835fde4a03bda26d8cb72b4649344a838b"
 metafile = true
 
 [[files]]
@@ -567,7 +567,7 @@ metafile = true
 
 [[files]]
 file = "mods/kotlin-lang-forge.pw.toml"
-hash = "6bbc0d4296bfcb2d834899f383ae6dc80d96920492d8290d55f204a527643ad8"
+hash = "a79e24c0a9c9c30e4ceb1c6060632960d2f257f834e7f081bc31e87386cfe1a9"
 metafile = true
 
 [[files]]
@@ -647,7 +647,7 @@ metafile = true
 
 [[files]]
 file = "mods/mezzconfig.pw.toml"
-hash = "7cc4b699a816b1dcee290ceb5951f404079edfefd0dd844955056fbf93b82629"
+hash = "8d7d77cb3b4b9d8d30f963c2c125a030e3bdcdcb3b85f63ea61f587d185578fa"
 metafile = true
 
 [[files]]
@@ -732,7 +732,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "2e0b31d4a3d4298045b368558ce7fe191a13bccb02a4524ca748598a9dcf4ca5"
+hash = "d465abcc806c0d4fdeefb6a5e774cca4fff0ffd27d7c75954ab4688f4c9eaf05"
 metafile = true
 
 [[files]]
@@ -757,7 +757,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "852ba399cf42709a5a22cf946e6a20c0d5e77d2990d98478e3e826a69154ff24"
+hash = "6f9502735fcac7a35468358e2aa0fd9333b12df885db3325c472d298ce315a72"
 metafile = true
 
 [[files]]
@@ -792,12 +792,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "058ae43d677dfee4df7968c7f53a71f4bb563ae484f6a5ab245cfb541c428a79"
+hash = "919c4a6d785d88b1741fcc29f12ef4ab62a3cbe62ba81decad64709314ab91ee"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "c30047d121e76400125d65f9aee8be37979ad04304b97d7628bdd7721ddfd048"
+hash = "6a9c688e013029ca428e4f4ed5f8dd292e80856dfed4225837df6a0110b7dc4f"
 metafile = true
 
 [[files]]
