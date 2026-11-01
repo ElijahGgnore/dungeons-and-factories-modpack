@@ -1,0 +1,13 @@
+name = "Modifier Keybinds"
+filename = "modifier_keybinds-neoforge-1.1.0+1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/fUIcgq6j/versions/kxT1A3rP/modifier_keybinds-neoforge-1.1.0%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "e922092c6a02f44faa6800c5a31eb113ffae1465ad1e3023cebe35fe19e7dd564b31e70456321936b31bf2e0938a4abd567208b1cb27fcb8f5a4cb5f83a8896a"
+
+[update]
+[update.modrinth]
+mod-id = "fUIcgq6j"
+version = "kxT1A3rP"
