@@ -116,6 +116,16 @@ hash = "ba3b9990bc44bedb8eacbe11b2beffb7457cc6ddd854e78fcaf8d73d8f2578db"
 metafile = true
 
 [[files]]
+file = "mods/building-gadgets.pw.toml"
+hash = "2ddd7b954c4a91910405e392b07f059c010dd092e9da096f381e925595ce741f"
+metafile = true
+
+[[files]]
+file = "mods/building-wands.pw.toml"
+hash = "98de570e4873e332455e5526ed5b62779cdb23c217efac51ad864ae510861456"
+metafile = true
+
+[[files]]
 file = "mods/cataclysm-spellbooks.pw.toml"
 hash = "f9a374ce592b015a17933e43418539b215fa7c6caa706dfe6ca5495675821648"
 metafile = true
@@ -688,6 +698,11 @@ metafile = true
 [[files]]
 file = "mods/ntgl.pw.toml"
 hash = "7932fbacc370edc6fd2577784800fd3d8baf7ceffa7d8ef0ac927ec13a62f16a"
+metafile = true
+
+[[files]]
+file = "mods/observable.pw.toml"
+hash = "3e477c97729015ac6184c0b56cb148947b7c0dc5cca764336ee96719f05f05e6"
 metafile = true
 
 [[files]]
