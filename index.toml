@@ -221,6 +221,11 @@ hash = "5117f179779ec5be73a5d36dc5055e1aaafe97672e9b39d39b46b0d433cc27aa"
 metafile = true
 
 [[files]]
+file = "mods/create-configurable-crushing-wheel.pw.toml"
+hash = "7aaabe2566cff6ce0fc4c5570844040a96f5e48cdbd28786b77a85c3e10ea34e"
+metafile = true
+
+[[files]]
 file = "mods/create-connected.pw.toml"
 hash = "6ac362d60bc8b13e03a5b6b9cdf9c7676f65d3e89e87c66f18514e7ee164cdb0"
 metafile = true
