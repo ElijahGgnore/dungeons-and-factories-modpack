@@ -525,11 +525,6 @@ hash = "423f59432424b62229121c417d9185721e4d32c9e2693172814764532f9c10e7"
 metafile = true
 
 [[files]]
-file = "mods/jei-plus-plus.pw.toml"
-hash = "7bc0742e9792e32a2b42284ca8ebb97331cd3f37b54aac1f16e5ae943b058fdb"
-metafile = true
-
-[[files]]
 file = "mods/jei-structures.pw.toml"
 hash = "173e3d013baf8c54be263ed42cc60a02aed9be99d8223608002b182a4eb6aa73"
 metafile = true
