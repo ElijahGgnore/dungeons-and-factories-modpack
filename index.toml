@@ -661,7 +661,7 @@ metafile = true
 
 [[files]]
 file = "mods/mezzconfig.pw.toml"
-hash = "b0c3d1ba984a9188d074634f45f17e3e2a248d5324b438f2ba4d18b3894b360e"
+hash = "e3ad7e057b7489bd450dda5ab479b49a5c6915e03f7ea0481d8b2f1808db96f9"
 metafile = true
 
 [[files]]
