@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "af7b4d1e6976a92cc88dc4ac2a2e6c391cfad4d64c2420a27bd5ef9e05b611ff"
+
+[[files]]
 file = "mods/aces-spell-utils.pw.toml"
 hash = "74861362fa4cd4d10b2d9f07937526e00c8a2c978ef548f5a7037ba4715261f2"
 metafile = true
@@ -52,7 +56,7 @@ metafile = true
 
 [[files]]
 file = "mods/ars-nouveau.pw.toml"
-hash = "9645a2d42361e38b0747c43f5e82a7f74cd4f06940cad02d6591e7c81835f733"
+hash = "d1f83d1c4a1f9cb2389b298765c7ace5edf18bc6918f738a515a22d633088fe9"
 metafile = true
 
 [[files]]
@@ -62,7 +66,7 @@ metafile = true
 
 [[files]]
 file = "mods/azurelib.pw.toml"
-hash = "0e0649a74b3e2160ebf3800cfc2b8fde702faec7efa5968b00f81e02bdbf8ed5"
+hash = "d56a7451770324070ea46face3a48e3ff9e19a438be0a3df60ef595502bbd9ae"
 metafile = true
 
 [[files]]
@@ -72,7 +76,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "603cdc47142b5aa5729cbbf265a473574c9e2b55561de4318e9842d3d4b3b995"
+hash = "fc8954e0d3fa66b917d2c84ee04d07b073a9eb6f719d09e1ff85527c1d61a10e"
 metafile = true
 
 [[files]]
@@ -372,7 +376,7 @@ metafile = true
 
 [[files]]
 file = "mods/enhanced-ai.pw.toml"
-hash = "bbd211e8776ec25a7fd6ac851588560dc7f57367cc57cd597a752b96f2a33889"
+hash = "f8c82146b01fe369f6f79f429be82d85b98b893d7c84dd82606858423a6807eb"
 metafile = true
 
 [[files]]
@@ -387,7 +391,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "37ae0fc372cc387710fb7cb525f79a405e88f9e88786f83c1e0834e127997d35"
+hash = "ed1b9c3018ec4e6afbaafd1544138a4f11bc211683ecf9c5d28b42553f60e8c7"
 metafile = true
 
 [[files]]
@@ -407,7 +411,7 @@ metafile = true
 
 [[files]]
 file = "mods/fantasy_armor.pw.toml"
-hash = "e67ed3a1cd8d3b4d683ace2baa4388113a97ef35861cfc37be77d5736f4cb804"
+hash = "da74d85c947e483070c162df79ef618d577c8985af8f25dd25d222d5c8974fc3"
 metafile = true
 
 [[files]]
@@ -472,7 +476,7 @@ metafile = true
 
 [[files]]
 file = "mods/insanelib.pw.toml"
-hash = "6d95bb692bc1476428842e68f2ac83f0647539d073b187850522912e0c43a23d"
+hash = "c72200f2b4ca84cd6c94c47219fee7435062a4f63af0415f18948f6654c1b5a5"
 metafile = true
 
 [[files]]
@@ -522,12 +526,12 @@ metafile = true
 
 [[files]]
 file = "mods/jei-plus-plus.pw.toml"
-hash = "ca061b751db9913b2b6d615527b65418f8e07712f6f05bd0316e90ba0410b0f9"
+hash = "7bc0742e9792e32a2b42284ca8ebb97331cd3f37b54aac1f16e5ae943b058fdb"
 metafile = true
 
 [[files]]
 file = "mods/jei-structures.pw.toml"
-hash = "aa84c125772e61147a3a0201f04a0070fd31e9483bf433c438d1ecd944442746"
+hash = "173e3d013baf8c54be263ed42cc60a02aed9be99d8223608002b182a4eb6aa73"
 metafile = true
 
 [[files]]
@@ -537,7 +541,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "c9397d739e667b9cafa27e1c260ddc35faba4400f949ff49d8e15bd6faeb8d48"
+hash = "b0c37ca9826781a6bf1373ae02a141b4202037515eb071ec2327410771de6ea5"
 metafile = true
 
 [[files]]
@@ -557,7 +561,7 @@ metafile = true
 
 [[files]]
 file = "mods/just-enough-resources-jer.pw.toml"
-hash = "3b23dd634ba740554b39378d66ecb926a9000ca911ac93753e52b60a00938ea6"
+hash = "17823abb92b0fa339dcfaeb73b188eec80fb968ba9f64f47abf8637073c234c6"
 metafile = true
 
 [[files]]
@@ -577,7 +581,7 @@ metafile = true
 
 [[files]]
 file = "mods/kotlin-lang-forge.pw.toml"
-hash = "a79e24c0a9c9c30e4ceb1c6060632960d2f257f834e7f081bc31e87386cfe1a9"
+hash = "2ba116824f0ea4a1b961d4d8b2af72483938ccc9da3428126b907c5d524e131c"
 metafile = true
 
 [[files]]
@@ -657,7 +661,7 @@ metafile = true
 
 [[files]]
 file = "mods/mezzconfig.pw.toml"
-hash = "8d7d77cb3b4b9d8d30f963c2c125a030e3bdcdcb3b85f63ea61f587d185578fa"
+hash = "b0c3d1ba984a9188d074634f45f17e3e2a248d5324b438f2ba4d18b3894b360e"
 metafile = true
 
 [[files]]
@@ -677,7 +681,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "709bfedec583aee1370ad11210b75a454b1e3f10c0a1da7fe25abd1c28a8681d"
+hash = "e3003f83463910a682f3ea1c419f850fed7bc2c6ff4831144db11228b98e2fb4"
 metafile = true
 
 [[files]]
@@ -692,7 +696,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "e0f1cef5482844e62c6fc3c7771fc9ef8385c47092248f76aa1fa271220b24e8"
+hash = "fd84fcf376910b659fdfbcc2401aa545400b0d7c65834eb2fe22bae3a3c921c2"
 metafile = true
 
 [[files]]
@@ -702,7 +706,7 @@ metafile = true
 
 [[files]]
 file = "mods/notenoughrecipebook.pw.toml"
-hash = "6df80014ec12832c5627e60f7c916e0cb8a9d8dbb3f7c4ff863de3a6e39957aa"
+hash = "00c1f4daa049500e6aca53a746fbc9d53578131dae2171418e780442f7c72a2d"
 metafile = true
 
 [[files]]
@@ -777,7 +781,7 @@ metafile = true
 
 [[files]]
 file = "mods/shatterbyte-lib.pw.toml"
-hash = "3f552bbdc42f07fd7d5695ced1d27d774af63cff5460be45817939e5f8e4f9de"
+hash = "4faf76c8ebe0d8a863576ea66f0efcd8a571f0cf6edc0faa763f6ad2f077dd3f"
 metafile = true
 
 [[files]]
@@ -802,7 +806,7 @@ metafile = true
 
 [[files]]
 file = "mods/skinrestorer.pw.toml"
-hash = "5b455b1ef10642289e24670df5c3ee5deabf320e07c67d24e84b30c65c86df52"
+hash = "2372d0016f2528eefbebf06878ee671779d3c684363c7b3d7c85ac1c2c1a1b4e"
 metafile = true
 
 [[files]]
@@ -817,12 +821,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "9a86c1c3deb9d3cdc4610d0adaa8d2e57fb1def2770a4a9bbdabf006291080a0"
+hash = "09ffd118babd4e9114f0c4bf9b0a1478f84a2470ebffec0104715c8bd66c9180"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "dbd66ccbed048e78e7d9690be924e3535ab7e1fc6335a6ac9be82e6b52956806"
+hash = "899a6b03dc738f5638a4ad88015c6737bfa9abbe3d30d89e84cbdd5aa8ab40eb"
 metafile = true
 
 [[files]]
