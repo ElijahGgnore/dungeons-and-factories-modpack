@@ -1,11 +1,11 @@
 name = "Dungeons & Factories"
-version = "6.9.0"
+version = "6.10.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "193dd9fb329f7054924d4d96f436168642de4ff31e3c146401a5daf940b2ab45"
+hash = "92f82e3f2d6b3bdac1020b9ab4fbbf3290a028b9a42128c7ddaf40d65ce3c55a"
 
 [versions]
 minecraft = "1.21.1"
