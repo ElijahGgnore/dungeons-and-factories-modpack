@@ -260,6 +260,11 @@ hash = "dcbb37e828a2f915e64a2ef839a742761a553a2e3b923b000ffba95db7503ac3"
 metafile = true
 
 [[files]]
+file = "mods/create-dup-fix.pw.toml"
+hash = "f5b3cf405405845102b2031c4a30d6eff2ecfd5c3ff05089774ef94c0e3226eb"
+metafile = true
+
+[[files]]
 file = "mods/create-enchantment-industry.pw.toml"
 hash = "5f76bdf0fe120e62cc3ae298e911727fa45c70dd191fd9c2b213029c7601576c"
 metafile = true
